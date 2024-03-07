@@ -1,0 +1,37 @@
+Music credits:
+
+
+Main menu music:
+
+Sneaky Snitch by Kevin MacLeod | https://incompetech.com/
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Settings music:
+
+Investigations by Kevin MacLeod | https://incompetech.com/
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Level music:
+
+Desert City by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Music promoted by https://www.chosic.com/free-music/all/
+
+
+Texture credits:
+
+Textures of the cat, level background, convertibles, buttons were taken from the Scratch's costume library and slightly remade. 
+Textures of the cursor were found somewhere on the net and slightly remade.
+
+
+SFX credits:
+
+Convertibles' sounds were downloaded from "https://zvukipro.com".
+Rocket fly sound was downloaded from "https://zvukipro.com" and slightly remade.
+
+Every other SFX was taken from the Scratch's sound library and slightly remade.
